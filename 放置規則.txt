@@ -1,9 +1,0 @@
-網站動畫放置路徑
-
-一、路徑：ftp://60.251.137.146/cdfiles/Share/Web Animation
-
-二、根據專案建立 HBxxxx的資料夾
-
-三、HBxxxx的資料夾中，需放置最終的.MP4  .fla
-
-四、HBxxxx的資料夾中，有個pic資料夾，可以放置散圖(jpg / png)，以利圖片元件日後可以拿來用或參考。
